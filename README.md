@@ -1,6 +1,8 @@
 ### 한국전력공사 인턴중 😄
 
-### <p align="center">[![Youngyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=young-yeon)](https://github.com/anuraghazra/github-readme-stats)<img src="https://github.githubassets.com/images/mona-whisper.gif" title="mona-whisper"></p>
+### <p align="center">[![Youngyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=young-yeon)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=young-yeon)](https://github.com/anuraghazra/github-readme-stats)</p>
+
+### <p align="center"><img src="https://github.githubassets.com/images/mona-whisper.gif" title="mona-whisper"></p>
 
 <!--
 **young-yeon/young-yeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
