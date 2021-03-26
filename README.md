@@ -1,4 +1,4 @@
-### 한국전력공사 440 😄
+### 한국전력공사 440기 😄
 
 ### <p align="center">[![Youngyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=young-yeon)](https://github.com/anuraghazra/github-readme-stats)</p>
 
