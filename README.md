@@ -1,4 +1,6 @@
-### 한국전력공사 440기 😄
+### 한국전력공사 440기
+
+#### 디미고 17기
 
 ### <p align="center">[![Youngyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=young-yeon&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=young-yeon&langs_count=20&layout=compact&hide=html,css&card_width=317)](https://github.com/anuraghazra/github-readme-stats) <img src="https://github.githubassets.com/images/mona-whisper.gif" title="mona-whisper">
 </p>
