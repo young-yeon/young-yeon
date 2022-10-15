@@ -1,8 +1,8 @@
-#### 대한민국 해군(ROK Navy) 병 680기
+#### Republic of Korea Naval soldier 680th
 
-#### 한국전력공사(KEPCO) 440기
+#### Korea Electric Power Corporation (KEPCO) 440th
 
-#### 한국디지털미디어고등학교(KDMHS) 해킹방어과 17기
+#### Korea Digital Media High School (KDMHS) department of Hacking&Defence 17th
 
 ### <p align="center">[![Youngyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=young-yeon&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=young-yeon&langs_count=20&layout=compact&hide=html,css&card_width=317)](https://github.com/anuraghazra/github-readme-stats) <img src="https://github.githubassets.com/images/mona-whisper.gif" title="mona-whisper">
 </p>
