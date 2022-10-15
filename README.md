@@ -1,4 +1,4 @@
-### Republic of Korea Naval soldier 680th
+### Republic of Korea Naval soldier CERT 680th
 
 ### Korea Electric Power Corporation (KEPCO) ICT 440th
 
