@@ -81,10 +81,8 @@ at **Republic of Korea Navy**
 
 **GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=young-yeon&count_private=true&show_icons=true&theme=onedark" alt="Youngyeon's GitHub Stats" height="150px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=young-yeon&count_private=true&layout=compact&theme=onedark" alt="Top Langs" height="150px" />
+![Youngyeon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=young-yeon&count_private=true&show_icons=true&theme=onedark)
 
-<br />
 <br />
 
 **[Baekjoon Online Judge](https://www.acmicpc.net/) Tier** (Online Algorithm Judge)
