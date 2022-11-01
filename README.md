@@ -20,10 +20,15 @@ and...
 
 ![Server Engineer](https://img.shields.io/badge/Server%20Engineer-blue?style=flat) &
 ![Machine Learning Engineer](https://img.shields.io/badge/Machine%20Learning%20Engineer-ff6f00?style=flat)
-at **[KEPCO (㈜한국전력공사)](https://www.kepco.co.kr/)** ('20.12.28. ~ '22. 1. 2. / Military Service Leave)
+at **[KEPCO (㈜한국전력공사)](https://www.kepco.co.kr/)**
+
+> '20.12.28. ~ '22. 1. 2. / Military Service Leave
 
 ![CERT](https://img.shields.io/badge/CERT%20(Computer%20Emergency%20Response%20Team)-red?style=flat)
-at **Republic of Korea Navy** ('22. 1. 3. ~ '23. 9. 2.)
+at **Republic of Korea Navy**
+
+> '22. 1. 3. ~ '23. 9. 2.
+
 
 <br />
 
@@ -86,13 +91,14 @@ at **Republic of Korea Navy** ('22. 1. 3. ~ '23. 9. 2.)
 
 [![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=as608683)](https://solved.ac/as608683)
 
+<br />
 
 ## 💬 How to Reach Me 💬
 
 **Send mail to...**
 
-[![cachi@kakao.com](https://img.shields.io/badge/cachi@kakao.com-orange.svg?&style=flat&logo=KakaoTalk&logoColor=ffcd00)](cachi@kakao.com)
-[![as608683@naver.com](https://img.shields.io/badge/as608683@naver.com-03c75a.svg?&style=flat&logo=Naver&logoColor=white)](as608683@naver.com)
-[![as608683@gmail.com](https://img.shields.io/badge/as608683@gmail.com-ea4335.svg?&style=flat&logo=Gmail&logoColor=white)](as608683@gmail.com)
+[![cachi@kakao.com](https://img.shields.io/badge/cachi@kakao.com-orange.svg?&style=flat&logo=KakaoTalk&logoColor=ffcd00)](mailto:cachi@kakao.com)
+[![as608683@naver.com](https://img.shields.io/badge/as608683@naver.com-03c75a.svg?&style=flat&logo=Naver&logoColor=white)](mailto:as608683@naver.com)
+[![as608683@gmail.com](https://img.shields.io/badge/as608683@gmail.com-ea4335.svg?&style=flat&logo=Gmail&logoColor=white)](mailto:as608683@gmail.com)
 
 <div>
