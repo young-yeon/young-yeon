@@ -6,11 +6,11 @@
 
 Web Fullstack Developer
 
-Machine Learning Engineer
+Data Analysis Specialist
 
 Server Engineer
 
-Security Manager
+Information Security Professional
 
 and...
 
@@ -19,16 +19,25 @@ and...
 ## 🖥 Working History 🖥
 
 ![Server Engineer](https://img.shields.io/badge/Server%20Engineer-blue?style=flat) &
-![Machine Learning Engineer](https://img.shields.io/badge/Machine%20Learning%20Engineer-ff6f00?style=flat)
+![DAP](https://img.shields.io/badge/Data%20Analysis%20Specialist-ff6f00?style=flat)
 at **[KEPCO (㈜한국전력공사)](https://www.kepco.co.kr/)**
 
-> '20.12.28. ~ '22. 1. 2. / Military Service Leave
+> 28/Dec/2020 ~ 31/Dec/2022
 
-![CERT](https://img.shields.io/badge/CERT%20(Computer%20Emergency%20Response%20Team)-red?style=flat)
+<br />
+
+![CERT](https://img.shields.io/badge/CERT%20(Computer%20Emergency%20Response%20Team)-green?style=flat)
 at **Republic of Korea Navy**
 
-> '22. 1. 3. ~ '23. 9. 2.
+> 3/Jan/2022 ~ 2/Sep/2023 / Military Service Leave
 
+<br />
+
+![Server Engineer](https://img.shields.io/badge/Server%20Engineer-blue?style=flat) &
+![ISP](https://img.shields.io/badge/Information%20Security%20Professional-red?style=flat)
+at **[KEPCO (㈜한국전력공사)](https://www.kepco.co.kr/)**
+
+> 18/Sep/2023 ~ today
 
 <br />
 
@@ -63,10 +72,20 @@ at **Republic of Korea Navy**
 **Server**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=docker&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078d6?style=flat&logo=Windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-e95420?style=flat&logo=Ubuntu&logoColor=white)
 ![IBM AIX](https://img.shields.io/badge/IBM%20AIX-052fad?style=flat&logo=IBM&logoColor=white)
-![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-1ba0d7?style=flat&logo=Cisco&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078d6?style=flat&logo=Windows&logoColor=white)
+
+<br />
+
+**Network & Security**
+
+![Cisco](https://img.shields.io/badge/Cisco%20IOS-1ba0d7?style=flat&logo=Cisco&logoColor=white)
+Genian
+Alcatel Lucent
+DASAN Networks
+
+// 수정중
 
 <br />
 
