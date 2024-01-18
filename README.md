@@ -58,6 +58,7 @@ at **[KEPCO (㈜한국전력공사)](https://www.kepco.co.kr/)**
 ![C](https://img.shields.io/badge/c-000000.svg?&style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599c?style=flat&logo=C%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=flat)
+![Kotlin](https://img.shields.io/badge/Kotlin-7e52ff?style=flat&logo=kotlin&logoColor=white)
 
 <br />
 
@@ -81,11 +82,8 @@ at **[KEPCO (㈜한국전력공사)](https://www.kepco.co.kr/)**
 **Network & Security**
 
 ![Cisco](https://img.shields.io/badge/Cisco%20IOS-1ba0d7?style=flat&logo=Cisco&logoColor=white)
-Genian
-Alcatel Lucent
-DASAN Networks
-
-// 수정중
+![Genian](https://img.shields.io/badge/Genian%20NAC-0b2c4a?style=flat)
+![Alcatel Lucent](https://img.shields.io/badge/Alcatel%20Lucent-68bc71?style=flat)
 
 <br />
 
