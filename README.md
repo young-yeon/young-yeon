@@ -110,6 +110,10 @@ at **[KEPCO (㈜한국전력공사)](https://www.kepco.co.kr/)**
 
 ## 💬 How to Reach Me 💬
 
+**LinkedIn**
+
+[![LinkedIn](https://img.shields.io/badge/Youngyeon%20Na-0a66c2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youngyeon-na)
+
 **Send mail to...**
 
 [![cachi@kakao.com](https://img.shields.io/badge/cachi@kakao.com-orange.svg?&style=flat&logo=KakaoTalk&logoColor=ffcd00)](mailto:cachi@kakao.com)
