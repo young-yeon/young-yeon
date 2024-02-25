@@ -34,7 +34,7 @@ at **Republic of Korea Navy**
 <br />
 
 ![Server Engineer](https://img.shields.io/badge/Server%20Engineer-blue?style=flat) &
-![ISP](https://img.shields.io/badge/Information%20Security%20Professional-red?style=flat)
+![SP](https://img.shields.io/badge/Security%20Professional-red?style=flat)
 at **[KEPCO (㈜한국전력공사)](https://www.kepco.co.kr/)**
 
 > 18/Sep/2023 ~ today
