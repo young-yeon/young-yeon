@@ -2,17 +2,9 @@
 
 ![Hey! I am Youngyeon](./image/header.png)
 
-### I am...
+### I am working as ...
 
-Web Fullstack Developer
-
-Data Analysis Specialist
-
-Server Engineer
-
-Information Security Professional
-
-and...
+RPA Developer
 
 <br />
 
@@ -22,14 +14,14 @@ and...
 ![DAP](https://img.shields.io/badge/Data%20Analysis%20Specialist-ff6f00?style=flat)
 at **[KEPCO (㈜한국전력공사)](https://www.kepco.co.kr/)**
 
-> 28/Dec/2020 ~ 31/Dec/2022
+> 28/Dec/2020 - 31/Dec/2022
 
 <br />
 
 ![CERT](https://img.shields.io/badge/CERT%20(Computer%20Emergency%20Response%20Team)-green?style=flat)
 at **Republic of Korea Navy**
 
-> 3/Jan/2022 ~ 2/Sep/2023 / Military Service Leave
+> 3/Jan/2022 - 2/Sep/2023 / Military Service Leave
 
 <br />
 
@@ -37,7 +29,14 @@ at **Republic of Korea Navy**
 ![SP](https://img.shields.io/badge/Security%20Professional-red?style=flat)
 at **[KEPCO (㈜한국전력공사)](https://www.kepco.co.kr/)**
 
-> 18/Sep/2023 ~ today
+> 18/Sep/2023 - 27/Mar/2024
+
+<br />
+
+![RPA Developer](https://img.shields.io/badge/RPA%20Developer-yellow?style=flat)
+at **[KEPCO (㈜한국전력공사)](https://www.kepco.co.kr/)**
+
+> 27/Mar/2024 - today
 
 <br />
 
