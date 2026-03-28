@@ -27,7 +27,7 @@ Building practical AI solutions for enterprise and on-prem environments.
   Military service leave
 
 - **Server Engineer / Data Analysis Specialist**, KEPCO Gyeongbuk ICT Operation Team  
-  `Dec 2020 - Dec 2022`
+  `Dec 2020 - Dec 2021`
 
 ## 🛠 Core Stack
 
