@@ -19,7 +19,7 @@ Building practical AI solutions for enterprise and on-prem environments.
   `Mar 2024 - Jan 2026`  
   Built internal automation tools and web-based operational services.
 
-- **Server Engineer / Security Professional**, KEPCO Gyeongbuk ICT Operation Team  
+- **Network Engineer**, KEPCO Gyeongbuk ICT Operation Team  
   `Sep 2023 - Mar 2024`
 
 - **CERT**, Republic of Korea Navy  
